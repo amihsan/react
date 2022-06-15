@@ -31,4 +31,5 @@ const Modal = (props) => {
     </Fragment>
   );
 };
+
 export default Modal;
